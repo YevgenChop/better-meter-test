@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/better-meter-test/static/js/main.075c651b.chunk.js",
+    "main.js.map": "/better-meter-test/static/js/main.075c651b.chunk.js.map",
+    "runtime-main.js": "/better-meter-test/static/js/runtime-main.c085dfde.js",
+    "runtime-main.js.map": "/better-meter-test/static/js/runtime-main.c085dfde.js.map",
+    "static/js/2.e5d389f5.chunk.js": "/better-meter-test/static/js/2.e5d389f5.chunk.js",
+    "static/js/2.e5d389f5.chunk.js.map": "/better-meter-test/static/js/2.e5d389f5.chunk.js.map",
+    "index.html": "/better-meter-test/index.html",
+    "static/js/2.e5d389f5.chunk.js.LICENSE.txt": "/better-meter-test/static/js/2.e5d389f5.chunk.js.LICENSE.txt",
+    "static/media/logo.4490fa23.svg": "/better-meter-test/static/media/logo.4490fa23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c085dfde.js",
+    "static/js/2.e5d389f5.chunk.js",
+    "static/js/main.075c651b.chunk.js"
+  ]
+}
